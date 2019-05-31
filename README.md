@@ -1,0 +1,2 @@
+# ejercicios
+Prácticas de Python
